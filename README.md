@@ -1,5 +1,4 @@
-# HTML Basics Course Repositoryb7
-
+# HTML Basics Course Repository
 
 Repository for the Course [HTML Basics](http://) at [Telerik Academy](http://)
 
